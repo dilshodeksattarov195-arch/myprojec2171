@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtervalculate",
+        "uuid": 13223561,
+        "checksum": "pqis3i"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
